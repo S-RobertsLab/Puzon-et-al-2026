@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: "If you use this software or analysis code, please cite the accompanying manuscript and repository."
+type: software
+title: "Code for: Distinct repair processes produce APOBEC-induced deletions, tandem substitutions, and complex mutations in yeast and human cells"
+version: "1.0.0"
+date-released: "2026-06-15"
+
+authors:
+
+* family-names: Puzon
+  given-names: Alexandra
+  affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
+* family-names: Raval
+  given-names: Atri
+  affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164; Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+* family-names: Cordero
+  given-names: Cameron
+  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+* family-names: Schiefen
+  given-names: Dan
+  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+* family-names: Mieczkowski
+  given-names: Piotr A.
+  affiliation: "Department of Genetics, Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA"
+* family-names: Roberts
+  given-names: Steven A.
+  email: "[srober23@med.uvm.edu](mailto:srober23@med.uvm.edu)"
+  affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164; Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+* family-names: Mertz
+  given-names: Tony M.
+  email: "[tony.mertz@med.uvm.edu](mailto:tony.mertz@med.uvm.edu)"
+  affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164; Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+
+abstract: >
+Code accompanying the manuscript "Distinct repair processes produce
+APOBEC-induced deletions, tandem substitutions, and complex mutations in
+yeast and human cells." This repository contains analysis code and supporting
+files for studying APOBEC-induced mutation patterns and DNA repair-associated
+mutagenesis.
+
+keywords:
+
+* "APOBECs"
+* "DNA repair"
+* "Cancer"
+* "Mutagenesis"
+* "complex mutations"
+* "tandem substitutions"
+* "deletions"
+* "yeast"
+* "human cells"
+
+license: MIT
+repository-code: "https://github.com/YOUR_ORG/YOUR_REPO"
+url: "https://github.com/YOUR_ORG/YOUR_REPO"
+
+preferred-citation:
+type: unpublished
+title: "Distinct repair processes produce APOBEC-induced deletions, tandem substitutions, and complex mutations in yeast and human cells"
+authors:
+- family-names: Puzon
+given-names: Alexandra
+- family-names: Raval
+given-names: Atri
+- family-names: Cordero
+given-names: Cameron
+- family-names: Schiefen
+given-names: Dan
+- family-names: Mieczkowski
+given-names: Piotr A.
+- family-names: Roberts
+given-names: Steven A.
+- family-names: Mertz
+given-names: Tony M.
+year: 2026
